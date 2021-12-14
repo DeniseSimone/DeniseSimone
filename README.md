@@ -3,7 +3,7 @@
 - 👩 Junior Frontend Developer 💻 👶
 - 💻 Languages: HTML, CSS, JavaScrip ES6 basics (still getting acquainted with it, and 👀 Looking forward to deepen my skills)
 - 📕 Libraries: Bootstrap
-- ➡️ Next step: React 
+- ➡️ Next goal: React 
 - 🧰 Tools: Figma, Git and Github 
 - 💪 Strong traits: Creativity 🦄 🌈
 - 📫 How to reach me: denisesimone1997@gmail.com 
