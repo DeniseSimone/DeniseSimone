@@ -1,6 +1,6 @@
 # Hey there :wave: I'm Denise :smirk: 
 
-- 👩 Junior Frontend Developer 💻 👶
+- 👩 Frontend Developer 💻 👶
 - 💻 Languages: HTML, CSS, JavaScrip ES6 basics (still getting acquainted with it, and 👀 Looking forward to deepen my skills)
 - 📕 Libraries: Bootstrap
 - ➡️ Next goal: React 
